@@ -2,7 +2,7 @@
 schema: default
 title: CTA - Ridership - Bus Routes - Daily Totals by Route
 organization: City of Chicago
-notes: This dataset shows total daily ridership on a per-route basis dating back to 2001. Daytypes are as follows: W=Weekday, A=Saturday, U=Sunday/Holiday.
+notes: This dataset shows total daily ridership on a per-route basis dating back to 2001.
 resources:
   - name: CTA - Ridership - Bus Routes - Daily Totals by Route CSV
     url: 'https://data.cityofchicago.org/api/views/jyb9-n7fm/rows.csv?accessType=DOWNLOAD'
