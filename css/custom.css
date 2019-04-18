@@ -2,6 +2,15 @@
 	background-color: #ADD8E6;
 }
 
-.homepage-categories {
-	background-color: #ADD8E6;
+.btn {
+	background-color: #000080;
+}
+
+.container {
+	background-image: url("https://www.theinquirer.net/w-images/1e62baf2-1cb1-40b5-b887-3e23dfc338c6/1/data-580x358.jpg")
+}
+
+.navbar-nav {
+	background-color: #000080;
+	color: #ffffff;
 }
